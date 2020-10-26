@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\ExAssociation\ExAssociation\bin\Debug\ExAssociation.exe.config
+C:\Users\Mohamad\source\repos\ExAssociation\ExAssociation\bin\Debug\ExAssociation.exe
+C:\Users\Mohamad\source\repos\ExAssociation\ExAssociation\bin\Debug\ExAssociation.pdb
+C:\Users\Mohamad\source\repos\ExAssociation\ExAssociation\obj\Debug\ExAssociation.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\ExAssociation\ExAssociation\obj\Debug\ExAssociation.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\ExAssociation\ExAssociation\obj\Debug\ExAssociation.exe
+C:\Users\Mohamad\source\repos\ExAssociation\ExAssociation\obj\Debug\ExAssociation.pdb
