@@ -1,7 +1,0 @@
-C:\Users\Mohamad\source\repos\1erExerciceVoiture\1erExerciceVoiture\bin\Debug\1erExerciceVoiture.exe.config
-C:\Users\Mohamad\source\repos\1erExerciceVoiture\1erExerciceVoiture\bin\Debug\1erExerciceVoiture.exe
-C:\Users\Mohamad\source\repos\1erExerciceVoiture\1erExerciceVoiture\bin\Debug\1erExerciceVoiture.pdb
-C:\Users\Mohamad\source\repos\1erExerciceVoiture\1erExerciceVoiture\obj\Debug\1erExerciceVoiture.csprojAssemblyReference.cache
-C:\Users\Mohamad\source\repos\1erExerciceVoiture\1erExerciceVoiture\obj\Debug\1erExerciceVoiture.csproj.CoreCompileInputs.cache
-C:\Users\Mohamad\source\repos\1erExerciceVoiture\1erExerciceVoiture\obj\Debug\1erExerciceVoiture.exe
-C:\Users\Mohamad\source\repos\1erExerciceVoiture\1erExerciceVoiture\obj\Debug\1erExerciceVoiture.pdb
