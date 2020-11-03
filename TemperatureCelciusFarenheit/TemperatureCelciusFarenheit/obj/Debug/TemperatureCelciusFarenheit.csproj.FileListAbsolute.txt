@@ -1,7 +1,0 @@
-C:\Users\Mohamad\source\repos\TemperatureCelciusFarenheit\TemperatureCelciusFarenheit\bin\Debug\TemperatureCelciusFarenheit.exe.config
-C:\Users\Mohamad\source\repos\TemperatureCelciusFarenheit\TemperatureCelciusFarenheit\bin\Debug\TemperatureCelciusFarenheit.exe
-C:\Users\Mohamad\source\repos\TemperatureCelciusFarenheit\TemperatureCelciusFarenheit\bin\Debug\TemperatureCelciusFarenheit.pdb
-C:\Users\Mohamad\source\repos\TemperatureCelciusFarenheit\TemperatureCelciusFarenheit\obj\Debug\TemperatureCelciusFarenheit.csprojAssemblyReference.cache
-C:\Users\Mohamad\source\repos\TemperatureCelciusFarenheit\TemperatureCelciusFarenheit\obj\Debug\TemperatureCelciusFarenheit.csproj.CoreCompileInputs.cache
-C:\Users\Mohamad\source\repos\TemperatureCelciusFarenheit\TemperatureCelciusFarenheit\obj\Debug\TemperatureCelciusFarenheit.exe
-C:\Users\Mohamad\source\repos\TemperatureCelciusFarenheit\TemperatureCelciusFarenheit\obj\Debug\TemperatureCelciusFarenheit.pdb
