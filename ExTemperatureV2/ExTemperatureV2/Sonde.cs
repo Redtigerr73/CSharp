@@ -1,26 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExTemperatureV2
 {
     class Sonde
     {
-        Temperature sondeA = new Temperature(-271, 'C');
-        
-        public bool TestChauffage()
+        public Temperature Temperature { get; set; }
+        //Temperature sondeA = new Temperature(-271, 'C');
+
+        public Sonde(double temp, char unite)
         {
-            if (sondeA.EnCel() < -50)
-                return true;
-            else return false;
+            Temperature = new Temperature(temp, unite);
         }
 
         public void Allumer()
         {
-            while (TestChauffage())
-                sondeA.tempEnCel = sondeA.EnFahr() + 25;
+            while (Temperature.EnCel() < -50)
+            {
+                Temperature.temp = Temperature.EnFahr() + 25;
+                Temperature.temp = Temperature.EnCel();
+                Console.WriteLine(Temperature.temp);
+            }
         }
     }
 }
