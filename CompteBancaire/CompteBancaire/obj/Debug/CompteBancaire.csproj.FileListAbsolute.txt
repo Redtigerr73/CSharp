@@ -1,0 +1,6 @@
+C:\Users\PSR11287\source\repos\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.exe.config
+C:\Users\PSR11287\source\repos\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.exe
+C:\Users\PSR11287\source\repos\CompteBancaire\CompteBancaire\bin\Debug\CompteBancaire.pdb
+C:\Users\PSR11287\source\repos\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.csprojAssemblyReference.cache
+C:\Users\PSR11287\source\repos\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.exe
+C:\Users\PSR11287\source\repos\CompteBancaire\CompteBancaire\obj\Debug\CompteBancaire.pdb

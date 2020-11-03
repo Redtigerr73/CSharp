@@ -1,0 +1,6 @@
+C:\Users\PSR11287\source\repos\ClasseStatiqueLireString\ClasseStatiqueLireString\bin\Debug\ClasseStatiqueLireString.exe.config
+C:\Users\PSR11287\source\repos\ClasseStatiqueLireString\ClasseStatiqueLireString\bin\Debug\ClasseStatiqueLireString.exe
+C:\Users\PSR11287\source\repos\ClasseStatiqueLireString\ClasseStatiqueLireString\bin\Debug\ClasseStatiqueLireString.pdb
+C:\Users\PSR11287\source\repos\ClasseStatiqueLireString\ClasseStatiqueLireString\obj\Debug\ClasseStatiqueLireString.csprojAssemblyReference.cache
+C:\Users\PSR11287\source\repos\ClasseStatiqueLireString\ClasseStatiqueLireString\obj\Debug\ClasseStatiqueLireString.exe
+C:\Users\PSR11287\source\repos\ClasseStatiqueLireString\ClasseStatiqueLireString\obj\Debug\ClasseStatiqueLireString.pdb

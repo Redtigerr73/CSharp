@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DéRevision\DéRevision\bin\Debug\DéRevision.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DéRevision\DéRevision\bin\Debug\DéRevision.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DéRevision\DéRevision\bin\Debug\DéRevision.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DéRevision\DéRevision\obj\Debug\DéRevision.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DéRevision\DéRevision\obj\Debug\DéRevision.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DéRevision\DéRevision\obj\Debug\DéRevision.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DéRevision\DéRevision\obj\Debug\DéRevision.pdb

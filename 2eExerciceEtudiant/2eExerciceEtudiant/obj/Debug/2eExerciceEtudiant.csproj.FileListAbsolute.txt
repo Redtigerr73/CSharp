@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\2eExerciceEtudiant\2eExerciceEtudiant\bin\Debug\2eExerciceEtudiant.exe.config
+C:\Users\Mohamad\source\repos\2eExerciceEtudiant\2eExerciceEtudiant\bin\Debug\2eExerciceEtudiant.exe
+C:\Users\Mohamad\source\repos\2eExerciceEtudiant\2eExerciceEtudiant\bin\Debug\2eExerciceEtudiant.pdb
+C:\Users\Mohamad\source\repos\2eExerciceEtudiant\2eExerciceEtudiant\obj\Debug\2eExerciceEtudiant.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\2eExerciceEtudiant\2eExerciceEtudiant\obj\Debug\2eExerciceEtudiant.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\2eExerciceEtudiant\2eExerciceEtudiant\obj\Debug\2eExerciceEtudiant.exe
+C:\Users\Mohamad\source\repos\2eExerciceEtudiant\2eExerciceEtudiant\obj\Debug\2eExerciceEtudiant.pdb

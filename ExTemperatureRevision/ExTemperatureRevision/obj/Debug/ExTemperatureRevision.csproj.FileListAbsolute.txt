@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureRevision\ExTemperatureRevision\bin\Debug\ExTemperatureRevision.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureRevision\ExTemperatureRevision\bin\Debug\ExTemperatureRevision.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureRevision\ExTemperatureRevision\bin\Debug\ExTemperatureRevision.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureRevision\ExTemperatureRevision\obj\Debug\ExTemperatureRevision.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureRevision\ExTemperatureRevision\obj\Debug\ExTemperatureRevision.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureRevision\ExTemperatureRevision\obj\Debug\ExTemperatureRevision.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureRevision\ExTemperatureRevision\obj\Debug\ExTemperatureRevision.pdb

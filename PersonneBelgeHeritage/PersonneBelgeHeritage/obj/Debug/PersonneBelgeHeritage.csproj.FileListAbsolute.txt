@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PersonneBelgeHeritage\PersonneBelgeHeritage\bin\Debug\PersonneBelgeHeritage.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PersonneBelgeHeritage\PersonneBelgeHeritage\bin\Debug\PersonneBelgeHeritage.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PersonneBelgeHeritage\PersonneBelgeHeritage\bin\Debug\PersonneBelgeHeritage.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PersonneBelgeHeritage\PersonneBelgeHeritage\obj\Debug\PersonneBelgeHeritage.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PersonneBelgeHeritage\PersonneBelgeHeritage\obj\Debug\PersonneBelgeHeritage.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PersonneBelgeHeritage\PersonneBelgeHeritage\obj\Debug\PersonneBelgeHeritage.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PersonneBelgeHeritage\PersonneBelgeHeritage\obj\Debug\PersonneBelgeHeritage.pdb

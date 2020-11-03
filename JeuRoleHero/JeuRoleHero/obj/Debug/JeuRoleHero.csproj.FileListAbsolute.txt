@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\JeuRoleHero\JeuRoleHero\bin\Debug\JeuRoleHero.exe.config
+C:\Users\Mohamad\source\repos\JeuRoleHero\JeuRoleHero\bin\Debug\JeuRoleHero.exe
+C:\Users\Mohamad\source\repos\JeuRoleHero\JeuRoleHero\bin\Debug\JeuRoleHero.pdb
+C:\Users\Mohamad\source\repos\JeuRoleHero\JeuRoleHero\obj\Debug\JeuRoleHero.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\JeuRoleHero\JeuRoleHero\obj\Debug\JeuRoleHero.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\JeuRoleHero\JeuRoleHero\obj\Debug\JeuRoleHero.exe
+C:\Users\Mohamad\source\repos\JeuRoleHero\JeuRoleHero\obj\Debug\JeuRoleHero.pdb
