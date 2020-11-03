@@ -1,0 +1,7 @@
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\ExCesarRev\ExCesarRev\bin\Debug\ExCesarRev.exe.config
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\ExCesarRev\ExCesarRev\bin\Debug\ExCesarRev.exe
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\ExCesarRev\ExCesarRev\bin\Debug\ExCesarRev.pdb
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\ExCesarRev\ExCesarRev\obj\Debug\ExCesarRev.csprojAssemblyReference.cache
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\ExCesarRev\ExCesarRev\obj\Debug\ExCesarRev.csproj.CoreCompileInputs.cache
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\ExCesarRev\ExCesarRev\obj\Debug\ExCesarRev.exe
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\ExCesarRev\ExCesarRev\obj\Debug\ExCesarRev.pdb
