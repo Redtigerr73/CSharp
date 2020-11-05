@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\SaisieRev\SaisieRev\bin\Debug\SaisieRev.exe.config
+C:\Users\Mohamad\source\repos\SaisieRev\SaisieRev\bin\Debug\SaisieRev.exe
+C:\Users\Mohamad\source\repos\SaisieRev\SaisieRev\bin\Debug\SaisieRev.pdb
+C:\Users\Mohamad\source\repos\SaisieRev\SaisieRev\obj\Debug\SaisieRev.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\SaisieRev\SaisieRev\obj\Debug\SaisieRev.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\SaisieRev\SaisieRev\obj\Debug\SaisieRev.exe
+C:\Users\Mohamad\source\repos\SaisieRev\SaisieRev\obj\Debug\SaisieRev.pdb
