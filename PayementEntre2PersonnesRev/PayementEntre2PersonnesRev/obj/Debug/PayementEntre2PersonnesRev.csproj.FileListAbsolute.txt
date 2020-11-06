@@ -5,3 +5,10 @@ C:\Users\Mohamad\source\repos\PayementEntre2PersonnesRev\PayementEntre2Personnes
 C:\Users\Mohamad\source\repos\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\obj\Debug\PayementEntre2PersonnesRev.csproj.CoreCompileInputs.cache
 C:\Users\Mohamad\source\repos\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\obj\Debug\PayementEntre2PersonnesRev.exe
 C:\Users\Mohamad\source\repos\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\obj\Debug\PayementEntre2PersonnesRev.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\obj\Debug\PayementEntre2PersonnesRev.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\obj\Debug\PayementEntre2PersonnesRev.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\obj\Debug\PayementEntre2PersonnesRev.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\obj\Debug\PayementEntre2PersonnesRev.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\bin\Debug\PayementEntre2PersonnesRev.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\bin\Debug\PayementEntre2PersonnesRev.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\PayementEntre2PersonnesRev\PayementEntre2PersonnesRev\bin\Debug\PayementEntre2PersonnesRev.pdb

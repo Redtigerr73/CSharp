@@ -9,38 +9,59 @@ namespace PayementEntre2PersonnesRev
     class Banque
     {
         #region Champ
-        private Personne _p1;
-        private Personne _p2;
+        //private Personne _p1;
+        //private Personne _p2;
+        #endregion
+
+        #region Propriétés
+        public double Solde { get; private set; }
         #endregion
 
         //Faut il d'office un constructeur, je n'ai pas besoin de p1 et p2 avant la méthode payer
         #region Constructeur
-        public Banque(Personne p1, Personne p2)
+        public Banque(double solde)
         {
-            _p1 = p1;
-            _p2 = p2;
+            Solde = solde;
         }
         #endregion
 
         #region Méthode
-        public void Payer(Personne originateur, Personne beneficiaire, double montant)
+        public void Retrait(/*Personne originateur, Personne beneficiaire, */double montant)
         {
-            Console.WriteLine($"Payement de {originateur.Nom} vers {beneficiaire.Nom} de {montant} EUR");
-            if (originateur.Argent - montant > 0)
+            //Console.WriteLine($"Payement de {originateur.Nom} vers {beneficiaire.Nom} de {montant} EUR");
+            //if (originateur.Argent - montant > 0)
+            //{
+            //    originateur.Argent -= montant;
+            //    beneficiaire.Argent += montant;
+            //    Console.WriteLine("Transaction réussie");
+            //    originateur.Afficher();
+            //    beneficiaire.Afficher();
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Transaction impossible");
+            //    originateur.Afficher();
+            //    beneficiaire.Afficher();
+            //}
+            if (montant > 0)
             {
-                originateur.Argent -= montant;
-                beneficiaire.Argent += montant;
-                Console.WriteLine("Transaction réussie");
-                originateur.Afficher();
-                beneficiaire.Afficher();
+                if (Solde - montant >= 0)
+                    Solde -= montant;
+                else
+                    Console.WriteLine("Pas assez d'argent.");
             }
             else
-            {
-                Console.WriteLine("Transaction impossible");
-                originateur.Afficher();
-                beneficiaire.Afficher();
-            }
+                Console.WriteLine("Le montant est négatif ou égal à zéro.");
+        }
 
+        public void Versement(double montant)
+        {
+            if (montant > 0)
+            {
+                Solde += montant;
+            }
+            else
+                Console.WriteLine("Le montant est négatif ou égal à zéro.");
         }
         #endregion
     }

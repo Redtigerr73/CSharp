@@ -5,3 +5,10 @@ C:\Users\Mohamad\source\repos\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.csprojAsse
 C:\Users\Mohamad\source\repos\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.csproj.CoreCompileInputs.cache
 C:\Users\Mohamad\source\repos\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.exe
 C:\Users\Mohamad\source\repos\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExHeroRev\ExHeroRev\bin\Debug\ExHeroRev.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExHeroRev\ExHeroRev\bin\Debug\ExHeroRev.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExHeroRev\ExHeroRev\bin\Debug\ExHeroRev.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExHeroRev\ExHeroRev\obj\Debug\ExHeroRev.pdb

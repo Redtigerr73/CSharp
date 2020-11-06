@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExHeroRev
 {
-    
+
     class Hero
     {
         #region Champ
@@ -14,15 +10,15 @@ namespace ExHeroRev
         private string _nom;
         public string Nom
         {
-            get { return _nom; }
-            private set { _nom = value; }
+            get => _nom;
+            private set => _nom = value;
         }
 
         private int _pointVie;
         public int PointVie
         {
-            get { return _pointVie; }
-            set { _pointVie = value; }
+            get => _pointVie;
+            set => _pointVie = value;
         }
         #endregion
 
@@ -36,28 +32,25 @@ namespace ExHeroRev
         #endregion
 
         #region Methode
-        public void Attaquer(Hero attaquant, Hero victime)
+        public void Attaquer(Hero victime)
         {
-            Afficher(attaquant);
-            Afficher(victime);
+            Console.WriteLine($"Hero {Nom}, tu as {PointVie}, Hero {victime.Nom}, tu as {victime.PointVie}");
             int pointMoins = pointAttaque.Lancer();
             victime.PointVie -= pointMoins;
-            Console.WriteLine($"Hero {attaquant.Nom} attaque {victime.Nom} en lui enlevant {pointMoins} de vie");
+            Console.WriteLine($"Hero {this.Nom} attaque {victime.Nom} en lui enlevant {pointMoins} de vie");
         }
 
-        public void Duel(Hero attaquant, Hero victime)
+        public void Duel(Hero victime)
         {
             do
             {
-                Attaquer(attaquant, victime);
+                Attaquer(victime);
                 if (victime.PointVie > 0)
-                Attaquer(victime, attaquant);
+                {
+                    victime.Attaquer(this);
+                }
             }
-            while (victime.PointVie > 0 && attaquant.PointVie > 0);
-        }
-        public void Afficher(Hero h)
-        {
-            Console.WriteLine($"Hero {h.Nom}, tu as {h.PointVie}");
+            while (victime.PointVie > 0 && PointVie > 0);
         }
         #endregion
 

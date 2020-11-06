@@ -10,32 +10,40 @@ namespace PayementEntre2PersonnesRev
     {
         #region Champs
         private string _nom;
+
+        //private double _argent;
+        #endregion
+
+        #region Propriété
         public string Nom
         {
             get { return _nom; }
             private set { _nom = value; }
         }
 
-        private double _argent;
-        public double Argent
-        {
-            get { return _argent; }
-            private set { _argent = value; }
-        }
+        public Banque Compte { get; private set; }
+
         #endregion
 
         #region Constructeur
-        public Personne(string nom, double argent)
+        public Personne(string nom, Banque compte/*, double argent*/)
         {
             _nom = nom;
-            _argent = argent;
+            Compte = compte;
+            //_argent = argent;
         }
         #endregion
 
         #region Methode
+        public void Payer(Personne personne, double montant)
+        {
+            Compte.Retrait(montant);
+            personne.Compte.Versement(montant);
+        }
+
         public void Afficher()
         {
-            Console.WriteLine($"{_nom} vous avez {_argent} sur votre compte");
+            Console.WriteLine($"{Nom} vous avez {Compte.Solde} sur votre compte");
         }
         #endregion 
     }
