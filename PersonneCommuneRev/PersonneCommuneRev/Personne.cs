@@ -12,7 +12,7 @@ namespace PersonneCommuneRev
         private string _nom;
         private string _prenom;
         private string _dateNaissance;
-        protected Voiture _voiture;
+        private Voiture _voiture;
         private Personne _conjoint;
 
 
@@ -38,6 +38,8 @@ namespace PersonneCommuneRev
             set { _dateNaissance = value; }
         }
 
+        public Voiture Voiture { get; private set; }
+
         public Personne Conjoint
         {
             get { return _conjoint; }
@@ -46,26 +48,31 @@ namespace PersonneCommuneRev
         #endregion
 
         #region Constructeur
-        public Personne(string nom, string prenom, /*DateTime dateNaissance*/string dateNaissance, Voiture voiture=null, Personne conjoint=null )
+        public Personne(string nom, string prenom, /*DateTime dateNaissance*/string dateNaissance)
             //prévoir une possibilité nulle ou prévoir un nouveau constructeur ?
         {
             Nom = nom;
             Prenom = prenom;
             DateNaissance = dateNaissance;
-            _voiture = voiture;
-            
+        }
 
+        public Personne(string nom, string prenom, string dateNaissance, Voiture voiture)
+        {
+            Nom = nom;
+            Prenom = prenom;
+            DateNaissance = dateNaissance;
+            Voiture = voiture;
         }
         #endregion
 
         #region Methode
         public void AcheterVoiture(Personne vendeur)
         {
-            if (vendeur._voiture != null)
+            if (vendeur.Voiture != null)
             {
-                _voiture = vendeur._voiture;
-                Console.WriteLine($"{_prenom} vous venez d'acheter la voiture {_voiture.Marque} {_voiture.Model} de {vendeur._prenom}{vendeur._nom}");
-                vendeur._voiture = null;
+                Voiture = vendeur._voiture;
+                Console.WriteLine($"{Prenom} vous venez d'acheter la voiture {Voiture.Marque} {Voiture.Model} de {vendeur.Prenom}{vendeur.Nom}");
+                vendeur.Voiture = null;
                 Console.WriteLine($"{vendeur._prenom} vous ne possédez plus la voiture");
             }
             else Console.WriteLine("Il n'y a pas de voiture à acheter");

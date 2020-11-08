@@ -12,11 +12,16 @@ namespace PersonneCommuneRev
         private Personne _p1;
         private Personne _p2;
 
+        public string Nom { get; private set; }
 
+        public Commune(string nom)
+        {
+            Nom = nom;
+        }
 
         public void Marier(Personne _p1, Personne _p2 ) //possibilité de ne prendre en paramètre que 1 classe objet?
         {
-            if (_p1 != null && _p2 != null)
+            if (!(_p1.Conjoint is null) && !(_p2.Conjoint is null))
             {
                 Console.WriteLine("Veuillez d'abord divorcer avant de vous remarier");
             }

@@ -10,6 +10,8 @@ namespace PersonneCommuneRev
     {
         static void Main(string[] args)
         {
+            DateTime DateNaissance = new DateTime(1990, 12, 24);
+            
             Voiture v1 = new Voiture("VW", "Golf");
             Personne p1 = new Personne("Reichmann", "Jeanluc", "25/04/1980");
             Personne p2 = new Personne("Abou", "Jeanette", "25/04/1976");
