@@ -1,0 +1,7 @@
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneBelgeRev\PersonneBelgeRev\bin\Debug\PersonneBelgeRev.exe.config
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneBelgeRev\PersonneBelgeRev\bin\Debug\PersonneBelgeRev.exe
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneBelgeRev\PersonneBelgeRev\bin\Debug\PersonneBelgeRev.pdb
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneBelgeRev\PersonneBelgeRev\obj\Debug\PersonneBelgeRev.csprojAssemblyReference.cache
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneBelgeRev\PersonneBelgeRev\obj\Debug\PersonneBelgeRev.csproj.CoreCompileInputs.cache
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneBelgeRev\PersonneBelgeRev\obj\Debug\PersonneBelgeRev.exe
+C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneBelgeRev\PersonneBelgeRev\obj\Debug\PersonneBelgeRev.pdb
