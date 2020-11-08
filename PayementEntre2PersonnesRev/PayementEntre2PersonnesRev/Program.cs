@@ -10,7 +10,7 @@ namespace PayementEntre2PersonnesRev
     {
         static void Main(string[] args)
         {
-            //interet d'instancier p1 et p2 ? 
+            //compte client ing/fortis avec le solde sur le compte 
             Banque ing = new Banque(12000);
             Banque fortis = new Banque(15000);
 

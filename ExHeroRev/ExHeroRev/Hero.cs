@@ -8,26 +8,31 @@ namespace ExHeroRev
         #region Champ
         static De pointAttaque = new De();
         private string _nom;
+        private int _pointVie;
+         
+        #endregion
+
+        #region Propriétés
         public string Nom
         {
             get => _nom;
             private set => _nom = value;
         }
 
-        private int _pointVie;
         public int PointVie
         {
             get => _pointVie;
             set => _pointVie = value;
         }
+
         #endregion
 
         #region Constructeur
-        //On utilise le Setter ou directement l'attribut dans le constructeur ?? _nom ou Nom
-        public Hero(string nom, int pointVie)
+        public Hero(string nom, int pointVie, Arme arme)
         {
             Nom = nom;
             PointVie = pointVie;
+
         }
         #endregion
 

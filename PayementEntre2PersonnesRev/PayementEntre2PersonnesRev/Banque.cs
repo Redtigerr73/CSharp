@@ -8,16 +8,10 @@ namespace PayementEntre2PersonnesRev
 {
     class Banque
     {
-        #region Champ
-        //private Personne _p1;
-        //private Personne _p2;
-        #endregion
-
         #region Propriétés
         public double Solde { get; private set; }
         #endregion
 
-        //Faut il d'office un constructeur, je n'ai pas besoin de p1 et p2 avant la méthode payer
         #region Constructeur
         public Banque(double solde)
         {
@@ -26,23 +20,8 @@ namespace PayementEntre2PersonnesRev
         #endregion
 
         #region Méthode
-        public void Retrait(/*Personne originateur, Personne beneficiaire, */double montant)
+        public void Retrait(double montant)
         {
-            //Console.WriteLine($"Payement de {originateur.Nom} vers {beneficiaire.Nom} de {montant} EUR");
-            //if (originateur.Argent - montant > 0)
-            //{
-            //    originateur.Argent -= montant;
-            //    beneficiaire.Argent += montant;
-            //    Console.WriteLine("Transaction réussie");
-            //    originateur.Afficher();
-            //    beneficiaire.Afficher();
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Transaction impossible");
-            //    originateur.Afficher();
-            //    beneficiaire.Afficher();
-            //}
             if (montant > 0)
             {
                 if (Solde - montant >= 0)
