@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace JeuRoleHero
+﻿namespace JeuRoleHero
 {
     class Program
     {
@@ -15,7 +9,7 @@ namespace JeuRoleHero
 
             Hero Bob = new Hero("Bob", 50, Bazzoka);
             Hero Marley = new Hero("Marley", 50, Shotgun);
-            Arene ring = new Arene(Bob,Marley);
+            Arene ring = new Arene(Bob, Marley);
 
             ring.Duel();
         }

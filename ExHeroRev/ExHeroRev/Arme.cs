@@ -10,35 +10,42 @@ namespace ExHeroRev
     {
         #region Champ
 
-        private string _nomArme;
-        private int _bonusArme;
+        private string _nom;
+        private int _bonus;
 
 
         #endregion
 
         #region Propriétés
 
-        public string NomArme
+        public string Nom
         {
-            get { return _nomArme; }
-            set { _nomArme = value; }
+            get { return _nom; }
+            set { _nom = value; }
         }
-        public int BonusArme
+        public int Bonus
         {
-            get { return _bonusArme; }
-            set { _bonusArme = value; }
+            get { return _bonus; }
+            set { _bonus = value; }
         }
 
         #endregion
 
         #region Constructeur
 
-        public Arme(string nomArme, int bonusArme)
+        public Arme(string nom, int bonus)
         {
-            NomArme = nomArme;
-            BonusArme = bonusArme;
+            Nom = nom;
+            Bonus = bonus;
         }
 
+        #endregion
+
+        #region Méthode
+        public void Afficher()
+        {
+            Console.WriteLine($"L'arme utilisé est {Nom} les dégats bonus sont de {Bonus}");
+        }
         #endregion
     }
 }

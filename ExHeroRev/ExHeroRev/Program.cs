@@ -6,8 +6,11 @@ namespace ExHeroRev
     {
         static void Main(string[] args)
         {
-            Hero h1 = new Hero("Tata", 30);
-            Hero h2 = new Hero("Toto", 20);
+            Arme gun= new Arme("gun",10);
+            Arme missile = new Arme("missile", 5);
+
+            Hero h1 = new Hero("Tata", 30, gun);
+            Hero h2 = new Hero("Toto", 20, missile);
 
             h1.Duel(h2);
 

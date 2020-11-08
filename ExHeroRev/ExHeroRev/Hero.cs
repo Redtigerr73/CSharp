@@ -6,9 +6,10 @@ namespace ExHeroRev
     class Hero
     {
         #region Champ
-        static De pointAttaque = new De();
+        static De pointAttaque = new De(); // plus utile d'utiliser en statique ou dans la méthode attaquer ?
         private string _nom;
         private int _pointVie;
+        protected Arme ArmeHero;
          
         #endregion
 
@@ -32,17 +33,26 @@ namespace ExHeroRev
         {
             Nom = nom;
             PointVie = pointVie;
-
-        }
+            ArmeHero = arme;
+        } // est-il utile de faire un autre constructeur avec string nomArme, string degatBonus, si oui comment le faire relier à l'objet arme ?
         #endregion
 
         #region Methode
         public void Attaquer(Hero victime)
         {
-            Console.WriteLine($"Hero {Nom}, tu as {PointVie}, Hero {victime.Nom}, tu as {victime.PointVie}");
             int pointMoins = pointAttaque.Lancer();
-            victime.PointVie -= pointMoins;
+                int bonus;
+            if (ArmeHero != null)
+                {
+                bonus = ArmeHero.Bonus;
+                pointMoins += bonus;
+                ArmeHero.Afficher();
+                }
+            Console.WriteLine($"Hero {Nom}, tu as {PointVie}, Hero {victime.Nom}, tu as {victime.PointVie}");
+            
+            
             Console.WriteLine($"Hero {this.Nom} attaque {victime.Nom} en lui enlevant {pointMoins} de vie");
+            victime.PointVie -= pointMoins;
         }
 
         public void Duel(Hero victime)
