@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExCompteBancaireRev\ExCompteBancaireRev\bin\Debug\ExCompteBancaireRev.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExCompteBancaireRev\ExCompteBancaireRev\bin\Debug\ExCompteBancaireRev.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExCompteBancaireRev\ExCompteBancaireRev\bin\Debug\ExCompteBancaireRev.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExCompteBancaireRev\ExCompteBancaireRev\obj\Debug\ExCompteBancaireRev.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExCompteBancaireRev\ExCompteBancaireRev\obj\Debug\ExCompteBancaireRev.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExCompteBancaireRev\ExCompteBancaireRev\obj\Debug\ExCompteBancaireRev.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExCompteBancaireRev\ExCompteBancaireRev\obj\Debug\ExCompteBancaireRev.pdb
