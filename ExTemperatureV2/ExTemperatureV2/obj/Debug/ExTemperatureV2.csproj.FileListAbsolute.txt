@@ -1,0 +1,14 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureV2\ExTemperatureV2\bin\Debug\ExTemperatureV2.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureV2\ExTemperatureV2\bin\Debug\ExTemperatureV2.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureV2\ExTemperatureV2\bin\Debug\ExTemperatureV2.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.pdb
+C:\Users\haji.m\Downloads\ExTemperatureV2-20201103T111718Z-001\ExTemperatureV2\ExTemperatureV2\bin\Debug\ExTemperatureV2.exe.config
+C:\Users\haji.m\Downloads\ExTemperatureV2-20201103T111718Z-001\ExTemperatureV2\ExTemperatureV2\bin\Debug\ExTemperatureV2.exe
+C:\Users\haji.m\Downloads\ExTemperatureV2-20201103T111718Z-001\ExTemperatureV2\ExTemperatureV2\bin\Debug\ExTemperatureV2.pdb
+C:\Users\haji.m\Downloads\ExTemperatureV2-20201103T111718Z-001\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.csprojAssemblyReference.cache
+C:\Users\haji.m\Downloads\ExTemperatureV2-20201103T111718Z-001\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.csproj.CoreCompileInputs.cache
+C:\Users\haji.m\Downloads\ExTemperatureV2-20201103T111718Z-001\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.exe
+C:\Users\haji.m\Downloads\ExTemperatureV2-20201103T111718Z-001\ExTemperatureV2\ExTemperatureV2\obj\Debug\ExTemperatureV2.pdb
