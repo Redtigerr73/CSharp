@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace JeuRoleHero
 {
@@ -17,17 +21,17 @@ namespace JeuRoleHero
             Arme = arme;
         }
 
-        public string GetNom()
+        public string GetNom ()
         {
             return this.nom;
         }
 
-        public int GetPointVie()
+        public int GetPointVie ()
         {
             return this.PointVie;
         }
 
-        public void SetPointVie(int point)
+        public void SetPointVie (int point)
         {
             this.PointVie = point;
         }
@@ -35,12 +39,12 @@ namespace JeuRoleHero
         public void Attaquer(Hero victime)
         {
             dice.Lancer();
-            int pointASoustraire = dice.Lire() + this.Arme.GetDegat();
+            int pointASoustraire = dice.Lire()+ this.Arme.GetDegat();
             victime.SetPointVie(victime.GetPointVie() - pointASoustraire);
             Console.WriteLine($"{this.GetNom()} vient d'attaquer {victime.GetNom()} en lui enlevant {pointASoustraire}, il ne reste plus que {victime.GetPointVie()} points de vie");
 
         }
 
-
+        
     }
 }

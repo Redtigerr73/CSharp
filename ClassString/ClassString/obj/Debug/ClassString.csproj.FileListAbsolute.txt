@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassString\ClassString\bin\Debug\ClassString.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassString\ClassString\bin\Debug\ClassString.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassString\ClassString\bin\Debug\ClassString.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassString\ClassString\obj\Debug\ClassString.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassString\ClassString\obj\Debug\ClassString.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassString\ClassString\obj\Debug\ClassString.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassString\ClassString\obj\Debug\ClassString.pdb

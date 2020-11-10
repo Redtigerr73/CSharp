@@ -1,7 +1,0 @@
-C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneCommuneRev\PersonneCommuneRev\bin\Debug\PersonneCommuneRev.exe.config
-C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneCommuneRev\PersonneCommuneRev\bin\Debug\PersonneCommuneRev.exe
-C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneCommuneRev\PersonneCommuneRev\bin\Debug\PersonneCommuneRev.pdb
-C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneCommuneRev\PersonneCommuneRev\obj\Debug\PersonneCommuneRev.csprojAssemblyReference.cache
-C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneCommuneRev\PersonneCommuneRev\obj\Debug\PersonneCommuneRev.csproj.CoreCompileInputs.cache
-C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneCommuneRev\PersonneCommuneRev\obj\Debug\PersonneCommuneRev.exe
-C:\Users\haji.m\source\repos\Redtigerr73\CSharp\PersonneCommuneRev\PersonneCommuneRev\obj\Debug\PersonneCommuneRev.pdb

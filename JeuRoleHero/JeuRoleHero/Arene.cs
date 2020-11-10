@@ -1,4 +1,10 @@
-﻿namespace JeuRoleHero
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace JeuRoleHero
 {
     class Arene
     {
@@ -17,7 +23,7 @@
             {
                 _Bob.Attaquer(_Marley);
                 if (_Marley.GetPointVie() > 0)
-                    _Marley.Attaquer(_Bob);
+                _Marley.Attaquer(_Bob);
             }
             while ((_Bob.GetPointVie() > 0) && (_Marley.GetPointVie() > 0));
         }
