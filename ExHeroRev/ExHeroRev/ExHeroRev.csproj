@@ -46,6 +46,7 @@
     <Compile Include="Arme.cs" />
     <Compile Include="De.cs" />
     <Compile Include="Hero.cs" />
+    <Compile Include="Mage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

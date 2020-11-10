@@ -8,8 +8,9 @@ namespace ExHeroRev
         {
             Hero h1 = new Hero("Tata", 30);
             Hero h2 = new Hero("Toto", 20);
+            Mage m1 = new Mage("Roi", 25, 5);
 
-            h1.Duel(h2);
+            m1.Duel(h1);
 
             Console.ReadLine();
         }
