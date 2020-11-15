@@ -1,15 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace StringBuilder
+namespace StringBuilder1
 {
     class Program
     {
         static void Main(string[] args)
         {
+
+            Replace rpl = new Replace();
+            string txt = "LENOVO";
+            Console.WriteLine(txt);
+            string newrpl = rpl.Remplacer(txt);
+            Console.WriteLine("Après changement    " + newrpl);
+
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DateTime\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DateTime\DateTime\bin\Debug\DateTime.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DateTime\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DateTime\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DateTime\DateTime\obj\Debug\DateTime.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\DateTime\DateTime\obj\Debug\DateTime.pdb

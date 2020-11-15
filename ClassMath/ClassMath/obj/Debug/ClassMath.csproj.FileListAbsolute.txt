@@ -1,0 +1,6 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassMath\ClassMath\bin\Debug\ClassMath.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassMath\ClassMath\bin\Debug\ClassMath.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassMath\ClassMath\bin\Debug\ClassMath.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassMath\ClassMath\obj\Debug\ClassMath.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassMath\ClassMath\obj\Debug\ClassMath.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ClassMath\ClassMath\obj\Debug\ClassMath.pdb

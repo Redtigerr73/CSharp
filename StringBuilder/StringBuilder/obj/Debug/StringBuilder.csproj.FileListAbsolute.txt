@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\StringBuilder\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\StringBuilder\StringBuilder\obj\Debug\StringBuilder.pdb
