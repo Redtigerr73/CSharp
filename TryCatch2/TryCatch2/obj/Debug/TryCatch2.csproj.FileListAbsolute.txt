@@ -1,0 +1,7 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\TryCatch2\TryCatch2\bin\Debug\TryCatch2.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\TryCatch2\TryCatch2\bin\Debug\TryCatch2.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\TryCatch2\TryCatch2\bin\Debug\TryCatch2.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\TryCatch2\TryCatch2\obj\Debug\TryCatch2.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\TryCatch2\TryCatch2\obj\Debug\TryCatch2.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\TryCatch2\TryCatch2\obj\Debug\TryCatch2.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\TryCatch2\TryCatch2\obj\Debug\TryCatch2.pdb

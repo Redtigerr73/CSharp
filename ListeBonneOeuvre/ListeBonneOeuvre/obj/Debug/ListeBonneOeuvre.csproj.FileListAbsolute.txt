@@ -1,0 +1,10 @@
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\bin\Debug\ListeBonneOeuvre.exe.config
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\bin\Debug\ListeBonneOeuvre.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\bin\Debug\ListeBonneOeuvre.pdb
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\obj\Debug\ListeBonneOeuvre.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\obj\Debug\ListeBonneOeuvre.Form1.resources
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\obj\Debug\ListeBonneOeuvre.Properties.Resources.resources
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\obj\Debug\ListeBonneOeuvre.csproj.GenerateResource.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\obj\Debug\ListeBonneOeuvre.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\obj\Debug\ListeBonneOeuvre.exe
+C:\Users\Mohamad\source\repos\Redtigerr73\CSharp\ListeBonneOeuvre\ListeBonneOeuvre\obj\Debug\ListeBonneOeuvre.pdb
